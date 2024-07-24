@@ -1,2 +1,2 @@
-#FactoryPatter
-creating simple project using Factory Patter using different notification like Toast, dialog and snackbar.
+# FactoryPatter
+Create a simple project using Factory Patter and notifications like Toast, dialog, and snack bar.
